@@ -28,9 +28,10 @@ def readcustemail(state:State):
 
     """
     # use below when running from python file
-    #SAMPLES = Path(__file__).parent / "samples" / "emails.txt" 
+    BASE = Path(__file__).parent 
     # use below when running from jupyter notebook
-    BASE = Path().resolve()
+    #BASE = Path().resolve()
+    
     file_path = BASE / "samples" / "emails.txt"
 
     state['email'] = parse_email(file_path.read_text(encoding="utf-8"))
@@ -213,6 +214,7 @@ graph_image = customer_support_agent_graph.get_graph(xray=True).draw_mermaid_png
 
 with open("customer_support_agent_graph.png", "wb") as f:
     f.write(graph_image)
+
 
 
 
