@@ -1,0 +1,11 @@
+Subject: Can't login to my account
+From: alice@example.com
+To: support@example.com
+
+Hi,
+
+I can't login to my account anymore. I tried resetting the password but it doesn't work. Please help ASAP.
+
+Regards,
+Alice
+
