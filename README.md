@@ -14,9 +14,10 @@ pip install langchain
 pip install langgraph 
 ```
 
-2. Put sample emails in local path and then run the main program
+2. Put sample emails in local path under folder samples and then run the main program
 
 ```bash
 python CustSupportAgentUsingLangGrapg.py
 ```
+
 
