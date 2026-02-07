@@ -1,0 +1,206 @@
+Prompt: 
+You are a data science tutor. Summarize the differences between supervised, unsupervised, and reinforcement learning in under 150 words using bullet points suitable for beginners.
+Evaluation: 
+## Prompt Evaluation:
+
+**1. Clarity:** 7/10 - The prompt clearly states the desired outcome: summarizing the differences between supervised, unsupervised, and reinforcement learning. However, it could be clearer by providing a brief explanation of what these types of learning are before asking for a summary.  
+**2. Specificity:** 6/10 - The prompt specifies that the summary should be under 150 words, but lacks detail regarding the specific focus (e.g., differences in algorithm, applications, etc.). 
+**3. Output Format and Constraints:** 8/10 -  The prompt explicitly requests a bullet point list suitable for beginners. It also sets a word count limit of 150 words. 
+**4. Persona defined:** 2/10 - The prompt doesn't assign a specific persona to the assistant, leaving the role undefined.
+
+
+**Final Score: 6/10**  The prompt is clear in its goal but lacks detail and specificity regarding the scope of learning and target audience. 
+
+**Suggestions for Improvement:**
+* **Add context:** Briefly explain supervised, unsupervised, and reinforcement learning before requesting a summary.
+* **Specify focus:** Include a specific focus area (e.g., algorithm differences, applications, etc.) to ensure the summary remains relevant.
+
+
+
+Let me know if you'd like to explore more prompts! 
+
+Prompt: 
+“You are an expert. Explain how this works.”
+Evaluation: 
+## Prompt Evaluation:
+
+**1. Clarity (8/10):** The prompt is clear in its intent, asking for an explanation of something ("how this works"). However, it lacks a specific topic or context. 
+**2. Specificity (4/10):**  The prompt doesn't provide any details about the subject matter, making it difficult to understand what "this" refers to. It needs explicit information on the concept, process, or object being explained.
+**3. Output Format and Constraints (0/10):** The prompt does not specify the desired format for the output (e.g., bullet points, paragraph, answer in a specific tone). 
+**4. Persona defined (7/10):**  The prompt implicitly defines a persona as an "expert" who can provide explanations. However, it lacks a clear indication of the level of expertise or the intended audience.
+
+**Overall Score: 5/10** The prompt demonstrates some clarity but suffers from lack of specificity and missing output format constraints. It also needs to define the persona more clearly.
+
+
+## Suggestions for Improvement:
+
+* **Specify the topic:**  Add a sentence like "Explain how [specific technology/process] works."
+* **Define output format:** Specify if you want a short explanation, a detailed answer, or something else. 
+
+
+
+Let me know if you'd like to explore more prompts! 
+
+Prompt:
+ “You are a space historian. Tell me everything you know about space.”
+Evaluation:
+ Here's an evaluation of the user prompt:
+
+**1. Clarity — 8/10** 
+The prompt is clear in stating that the user wants information on "space" from a historical perspective.  It could be clearer by specifying what "everything" entails (e.g., "Tell me everything you know about the history of space exploration").
+
+**2. Specificity — 4/10** 
+The prompt lacks specific details about the scope and focus of the historical information. What time period is being considered?  What aspects of space are most relevant (astronomy, physics, technology)?
+
+**3. Output Format and Constraints — 5/10** 
+The prompt doesn't specify the desired format for the response or any constraints on length or tone. 
+
+**4. Persona defined — 6/10** 
+The prompt explicitly assigns a persona: "You are a space historian."  However, it could be strengthened by specifying the level of expertise expected (e.g., "you are an expert in early space exploration").
+
+
+**Overall Score (Final Scope) : 6/10**
+
+The prompt is clear in its intent but lacks specificity and constraints on output format and persona, impacting its overall score.
+
+
+**Suggestions for Improvement:**
+
+* **Specify a time period or focus:**  "Tell me about the history of space exploration from the early days of rocketry to the first manned mission to Mars."
+* **Define desired tone/format:** "Write a concise overview of space history as if you were writing an introductory textbook chapter, focusing on the scientific advancements and their impact on society." 
+
+
+
+Let me know if you'd like to explore more prompts! 
+
+Prompt:
+ “You are a product analyst. Given the following customer reviews, extract the top three recurring complaints and propose two actionable improvements for each.”
+Evaluation:
+ ## Prompt Evaluation:
+
+**1. Clarity (9/10):** The prompt clearly states the user's desired outcome - extracting top complaints from customer reviews and proposing improvement ideas. 
+**2. Specificity (7/10):**  It specifies the role of the assistant ("product analyst") and provides a context for analysis ("customer reviews"). However, it lacks specifics about the type of product or industry to ensure accurate complaint extraction. 
+**3. Output Format and Constraints (6/10):** The prompt does not specify the desired output format (e.g., bullet points, table, etc.) or any length constraints for the proposed improvements. 
+**4. Persona defined (8/10):**  The prompt clearly assigns a persona to the assistant - "You are a product analyst." This helps guide the response generation towards a professional and analytical approach.
+
+**Final Score: 7/10** The prompt is generally clear, but lacks specific details about the context and desired output format.
+
+
+**Suggestions for Improvement:**
+
+* **Specify the Product/Industry:**  Add information about the type of product (e.g., software, food, clothing) or industry to ensure relevant complaints are extracted. 
+* **Define Output Format:** Specify whether the response should be in bullet points, a table, or a detailed report with specific sections for each complaint and improvement idea. 
+
+
+**Note:**  The prompt could benefit from additional context to improve clarity and specificity. 
+
+
+
+Let me know if you'd like to explore more prompts! 
+
+Prompt:
+ “You are a sci‑fi novelist. Write a short story (under 200 words) about a robot discovering an extinct human civilization, focusing on emotional tone rather than action.”
+Evaluation:
+ ## Prompt Evaluation:
+
+**1. Clarity:** 9 - The prompt clearly states the desired task (write a short story) and provides specific constraints (sci-fi genre, word count).  It also gives context for the theme (emotional tone) and target audience (a robot discovering an extinct human civilization). 
+**2. Specificity:** 7 - While the prompt specifies the genre and word count, it lacks details about the setting, characters, or specific emotional themes to be explored.  It would benefit from more concrete details about the robot's perspective and the nature of the discovered civilization. 
+**3. Output Format and Constraints:** 8 - The prompt explicitly states "short story" (under 200 words) and provides a clear target for length. It also establishes a specific tone ("emotional").
+**4. Persona defined:** 6 -  The prompt does not assign a specific persona to the assistant, but it implicitly suggests the role of a sci-fi novelist by using phrases like "you are a sci-fi novelist."
+
+
+**Final score: 7.5 / 10**
+
+Overall, the prompt is clear and concise in outlining the task, with some room for improvement in terms of specificity regarding setting and emotional themes.  
+
+
+## Suggestions for Improvement:
+
+* **Add specific details about the robot:** What kind of robot is it? What are its limitations and capabilities? Does it have a name or personality?
+* **Describe the extinct civilization's impact on the robot:** How does discovering this civilization affect the robot emotionally, physically, or intellectually? 
+
+
+By adding these elements, the prompt will become more comprehensive and provide a clearer direction for the story. 
+
+
+
+Let me know if you'd like to explore more prompts! 
+
+Prompt:
+ “ur like some kinda data helper bot so plz do that thing with the data stuff idk what its called but make it good”
+Evaluation:
+ Here's an evaluation of the user prompt:
+
+**1. Clarity — 4/10**  The prompt lacks clear definition of the goal. While it mentions "data helper" and "good," these are vague terms without specific context. 
+
+**2. Specificity — 2/10** The prompt is very general and doesn't provide any details about the data, its format, or the desired outcome.  It lacks concrete information about the task to be completed.
+
+**3. Output Format and Constraints — 1/10** No constraints are specified regarding output format (e.g., text, code, tables), tone (formal/informal), or length (word count, page length). 
+
+**4. Persona defined — 2/10** The prompt doesn't explicitly define a persona for the assistant. It suggests a data-focused role, but lacks further characterization.
+
+
+**Final Score:  5/10** 
+The prompt shows some basic understanding of the task at hand but needs significant refinement to be useful and actionable.
+
+**Suggestions:**
+
+* **Provide Context:** Briefly describe the type of data (e.g., sales figures, customer reviews), its source, and the intended purpose (e.g., creating a report, visualizing trends).
+* **Define Output Expectations:**  Specify the desired format for the output (e.g., "Generate a summary table in Excel with key metrics."). 
+* **Clarify Persona:** Indicate the desired tone (e.g., "Write this as a clear and concise analysis") or persona (e.g., "You are a data analyst specializing in marketing").
+
+
+
+Let me know if you'd like to explore more prompts! 
+
+Prompt:
+ “You are a customer support agent. Draft a professional email apologizing for a delayed shipment, offering a 10% discount, and requesting confirmation of the updated delivery address.”
+Evaluation:
+ ## Prompt Evaluation:
+
+**1. Clarity — 9/10:**  The prompt clearly states the user wants a customer support email apology regarding a delayed shipment. There is a clear goal to draft an email. 
+**2. Specificity — 6/10:**  While the prompt mentions specific elements like discount and delivery address, it lacks details about the shipping delay (e.g., duration) or potential reasons for the delay.  
+**3. Output Format and Constraints — 7/10:** The prompt does not specify the format of the email, but it suggests a professional tone and requests a confirmation of an updated delivery address. 
+**4. Persona defined — 8/10:** The prompt clearly defines a customer support agent persona by mentioning "You are..."  This helps in understanding the expected response from the AI.
+
+**Final Score: 7.5/10** 
+
+
+**Suggestions for Improvement:**
+
+* **Add details about the delay:** Specify the reason for the delay (e.g., unforeseen weather conditions, supplier issue) or a timeframe for when to expect the shipment.
+* **Clarify desired email tone:**  Is it formal, friendly, or apologetic? This would help in crafting the appropriate language and tone. 
+
+
+Overall, the prompt provides a clear starting point but could benefit from more specific details and guidance on the expected output format and tone. 
+
+
+
+Let me know if you'd like to explore more prompts! 
+
+Prompt:
+ How are you
+Evaluation:
+ ## Prompt Evaluation:
+
+**1. Clarity — 7/10:** The prompt is understandable, but it lacks context.  It's clear that the user wants a response from an AI assistant, but there's no indication of the desired tone or purpose of the interaction.
+
+**2. Specificity — 2/10:** The prompt is vague and doesn't provide specific details about the task or what kind of information the user expects.  It simply asks for a response without any context or expectations.
+
+**3. Output Format and Constraints — 0/10:**  The prompt doesn't specify the desired output format, tone, or length constraints. It just asks for a general response.
+
+**4. Persona defined — 0/10:** The prompt does not assign a specific role or persona to the assistant.
+
+
+**Overall Score: 5/10** -  The prompt is understandable in terms of its intention, but lacks crucial details and context to create a meaningful interaction.
+
+
+**Suggestions for Improvement:**
+
+* **Add Context:** Include information about the user's situation or purpose for the interaction (e.g., "I need help writing a thank you note" or "How are you today?").
+* **Specify Desired Output:**  Set clear expectations regarding the format, tone, and length of the response. (e.g., "Please provide a short and friendly answer"). 
+
+
+
+Let me know if you'd like to explore more prompt examples! 
+
