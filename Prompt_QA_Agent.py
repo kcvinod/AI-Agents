@@ -75,9 +75,9 @@ def main():
         result = evaluate_prompt(user_prompt=user_prompt )
         print("\nPrompt Quality Evaluation:\n")
         print(result) 
-        with open("output.txt", "a", encoding="utf-8") as f:
-            f.write(f"Prompt: {user_prompt}\n")
-            f.write(f"Evaluation: {result}\n")
+        with open("Prompt_Evaluation.txt", "a", encoding="utf-8") as f:
+            f.write(f"Prompt:\n {user_prompt}\n")
+            f.write(f"Evaluation:\n {result}\n")
     except RuntimeError as e:
         print(f"Error: {e}")
         sys.exit(2)
