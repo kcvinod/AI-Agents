@@ -1,0 +1,10 @@
+Subject: Interface failure 
+From: carol@example.com
+To: billing@example.com
+
+Hi,
+
+Our CRM API interface to the ERP keeps intermittently failing with 504 error. Pls help
+
+Best,
+Carol

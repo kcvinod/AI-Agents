@@ -1,0 +1,144 @@
+(venv) PS C:\Users\kcvin\Programming\Python\AI Agent\AIAgentProject> python3 -W ignore CustSupportAgentUsingLangGraph.py
+Reading customer email...
+Parsing email...
+Classifying email based on intent, urgency, complexity and topic...
+llm_output:  ```json
+{
+  "intent": "account",
+  "urgency": "Medium",
+  "complexity": "Low",
+  "summary": "Alice is experiencing difficulties logging into their account and has attempted password reset but it failed."
+}
+```
+Extracting JSON from text...
+parsed_value:  {'intent': 'account', 'urgency': 'Medium', 'complexity': 'Low', 'summary': 'Alice is experiencing difficulties logging into their account and has attempted password reset but it failed.'}
+Determining if issue should be escalated based on urgency and complexity...
+Issue classified as low/medium urgency and complexity. Can draft response without escalation.
+Drafting response based on email classification and knowledge base search results...
+Response drafted and sent to customer:
+Subject: Re: Can't login to my account
+
+Hi Alice,
+
+We understand you're having trouble logging into your account.
+
+To help us troubleshoot this issue, could you please provide the following information:
+
+* Your full name and email address associated with your account.
+* The specific error message you are receiving when attempting to log in.
+
+
+Once we have this information, we can take a closer look at your account and get you back online quickly.
+
+Thanks,
+
+[Your Name]
+
+(venv) PS C:\Users\kcvin\Programming\Python\AI Agent\AIAgentProject> python3 -W ignore CustSupportAgentUsingLangGraph.py
+Reading customer email...
+Parsing email...
+Classifying email based on intent, urgency, complexity and topic...
+llm_output:  ```json
+{
+ "intent": "technical_issue",
+ "urgency": "Medium",
+ "complexity": "Low" ,
+ "summary": "Bob reports that the application crashes when uploading a file and provides a stack trace."
+}
+```
+Extracting JSON from text...
+parsed_value:  {'intent': 'technical_issue', 'urgency': 'Medium', 'complexity': 'Low', 'summary': 'Bob reports that the application crashes when uploading a file and provides a stack trace.'}
+Determining if issue should be escalated based on urgency and complexity...
+Issue classified as low/medium urgency and complexity. Can draft response without escalation.
+Drafting response based on email classification and knowledge base search results...
+Response drafted and sent to customer:
+Subject: Re: App crashed when uploading file
+
+Dear Bob,
+
+Thank you for reaching out and providing the stack trace.  We are investigating this issue and will provide an update as soon as possible. In the meantime, please try to avoid uploading large files until this issue is resolved.
+
+
+Sincerely,
+
+[Your Name]
+Helpdesk Team
+
+(venv) PS C:\Users\kcvin\Programming\Python\AI Agent\AIAgentProject> python3 -W ignore CustSupportAgentUsingLangGraph.py
+Reading customer email...
+Parsing email...
+Classifying email based on intent, urgency, complexity and topic...
+llm_output:  ```json
+{
+  "intent": "billing",
+  "urgency": "High",
+  "complexity": "Low",
+  "summary": "Customer is requesting clarification on a double billing charge and seeks immediate resolution."
+}
+```
+Extracting JSON from text...
+parsed_value:  {'intent': 'billing', 'urgency': 'High', 'complexity': 'Low', 'summary': 'Customer is requesting clarification on a double billing charge and seeks immediate resolution.'}
+Determining if issue should be escalated based on urgency and complexity...
+Issue classified as high urgency. Should escalate to human support agent.
+Escalating issue to human support agent...
+Issue escalated to human support agent.
+{'action': 'escalate', 'reason': 'high urgency', 'payload': {'ticket_summary': 'Hi,\nI was charged twice this month — can you check my invoice and let me know why? This is urgent to fix\nBest,\nCarol', 'assignee': 'on-call'}}
+(venv) PS C:\Users\kcvin\Programming\Python\AI Agent\AIAgentProject> python3 -W ignore CustSupportAgentUsingLangGraph.py
+Reading customer email...
+Parsing email...
+Classifying email based on intent, urgency, complexity and topic...
+llm_output:  ```json
+{
+ "intent": "feature_request",
+ "urgency": "Low",
+ "complexity": "Low",
+ "summary": "Carol requests adding a new feature to the CRM Sales screen that displays customer billing history."
+}
+```
+Extracting JSON from text...
+parsed_value:  {'intent': 'feature_request', 'urgency': 'Low', 'complexity': 'Low', 'summary': 'Carol requests adding a new feature to the CRM Sales screen that displays customer billing history.'}
+Determining if issue should be escalated based on urgency and complexity...
+Issue classified as low/medium urgency and complexity. Can draft response without escalation.
+Drafting response based on email classification and knowledge base search results...
+Response drafted and sent to customer:
+Subject: Re: Need additional feature to the app
+
+Hi Carol,
+
+Thanks for reaching out! We'll add your request to our list of future improvements for the CRM Sales screen.  We appreciate your feedback and will keep you updated on any developments.
+
+Best regards,
+[Your Name]
+
+(venv) PS C:\Users\kcvin\Programming\Python\AI Agent\AIAgentProject> python3 -W ignore CustSupportAgentUsingLangGraph.py
+Reading customer email...
+Parsing email...
+Classifying email based on intent, urgency, complexity and topic...
+llm_output:  ```json
+{
+  "intent": "technical_issue",
+  "urgency": "Medium",
+  "complexity": "Low",
+  "summary": "A customer reports intermittent failures of the CRM API interface to the ERP, causing a 504 error."
+}
+```
+Extracting JSON from text...
+parsed_value:  {'intent': 'technical_issue', 'urgency': 'Medium', 'complexity': 'Low', 'summary': 'A customer reports intermittent failures of the CRM API interface to the ERP, causing a 504 error.'}
+Determining if issue should be escalated based on urgency and complexity...
+Issue classified as low/medium urgency and complexity. Can draft response without escalation.
+Drafting response based on email classification and knowledge base search results...
+Response drafted and sent to customer:
+Subject: Re: Interface failure
+
+Dear Carol,
+
+Thank you for reaching out regarding the intermittent 504 errors with your CRM API interface. We're currently investigating the issue and will provide updates as soon as possible.
+
+Please feel free to reach out if you have any further questions.
+
+
+Best regards,
+[Your Name]
+Customer Support
+
+(venv) PS C:\Users\kcvin\Programming\Python\AI Agent\AIAgentProject> 

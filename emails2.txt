@@ -1,0 +1,10 @@
+Subject: App crashed when uploading file
+From: bob@example.com
+To: support@example.com
+
+Hello,
+
+When I upload a file the app crashes with an exception and a stack trace. This happens every time. Attached is the stack trace.
+
+Thanks,
+Bob

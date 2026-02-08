@@ -1,0 +1,10 @@
+Subject: Urgent billing issue
+From: carol@example.com
+To: billing@example.com
+
+Hi,
+
+I was charged twice this month — can you check my invoice and let me know why? This is urgent to fix
+
+Best,
+Carol

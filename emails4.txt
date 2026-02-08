@@ -1,0 +1,10 @@
+Subject: Need additional feature to the app
+From: carol@example.com
+To: billing@example.com
+
+Hi,
+
+Can you update new feature to the CRM Sales screen. We need to show customer billing history. 
+
+Best,
+Carol
